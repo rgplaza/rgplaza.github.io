@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="en">
+<head prefix="og: http://ogp.me/ns# article: http://ogp.me/ns/article# website: http://ogp.me/ns/website#">
+<meta http-equiv="content-type" content="text/html; charset=utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+<meta name="description" content="">
+<meta property="og:title" content="Sobre mí">
+<meta property="og:type" content="article">
+<meta property="article:published_time" content="2015-07-28">
+<meta property="og:description" content="">
+<meta property="og:url" content="about/">
+<meta property="og:site_name" content="MY NAME">
+<meta name="generator" content="Hugo 0.20.2"/>
+<title>About Me &middot; MY NAME</title>
+<script type="text/javascript">
+//<![CDATA[
+try{if (!window.CloudFlare) {var CloudFlare=[{verbose:0,p:0,byc:0,owlid:"cf",bag2:1,mirage2:0,oracle:0,paths:{cloudflare:"/cdn-cgi/nexp/dok3v=1613a3a185/"},atok:"47de9d2f69e2d99e3ef83f75e98997bd",petok:"400aa90dd3e602be31e5f59c092b65045767095d-1492685558-1800",zone:"gohugo.io",rocket:"0",apps:{"ga_key":{"ua":"UA-7131036-4","ga_bs":"2"}}}];!function(a,b){a=document.createElement("script"),b=document.getElementsByTagName("script")[0],a.async=!0,a.src="//ajax.cloudflare.com/cdn-cgi/nexp/dok3v=905ca5bd16/cloudflare.min.js",b.parentNode.insertBefore(a,b)}()}}catch(e){};
+//]]>
+</script>
+<link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/font-awesome/4.3.0/css/font-awesome.min.css">
+<link rel="stylesheet" href="https://themes.gohugo.io/theme/hugo-geo/css/style.css">
+<link href="" rel="alternate" type="application/rss+xml" title="MY NAME"/>
+<link rel="icon" href="https://themes.gohugo.io/theme/hugo-geo/favicon.ico"/>
+<script type="text/javascript">
+/* <![CDATA[ */
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-7131036-4']);
+_gaq.push(['_trackPageview']);
+
+(function() {
+var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+
+(function(b){(function(a){"__CF"in b&&"DJS"in b.__CF?b.__CF.DJS.push(a):"addEventListener"in b?b.addEventListener("load",a,!1):b.attachEvent("onload",a)})(function(){"FB"in b&&"Event"in FB&&"subscribe"in FB.Event&&(FB.Event.subscribe("edge.create",function(a){_gaq.push(["_trackSocial","facebook","like",a])}),FB.Event.subscribe("edge.remove",function(a){_gaq.push(["_trackSocial","facebook","unlike",a])}),FB.Event.subscribe("message.send",function(a){_gaq.push(["_trackSocial","facebook","send",a])}));"twttr"in b&&"events"in twttr&&"bind"in twttr.events&&twttr.events.bind("tweet",function(a){if(a){var b;if(a.target&&a.target.nodeName=="IFRAME")a:{if(a=a.target.src){a=a.split("#")[0].match(/[^?=&]+=([^&]*)?/g);b=0;for(var c;c=a[b];++b)if(c.indexOf("url")===0){b=unescape(c.split("=")[1]);break a}}b=void 0}_gaq.push(["_trackSocial","twitter","tweet",b])}})})})(window);
+/* ]]> */
+</script>
+</head>
+<body>
+<nav class="navbar navbar-default navbar-fixed-top visible-xs">
+<div class="container-fluid">
+<div class="navbar-header">
+<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+<span class="sr-only">Toggle navigation</span>
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+</button>
+<a class="navbar-brand" href="/">RUBEN GARCIA</a>
+</div>
+<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+<ul class="nav navbar-nav">
+<li><a href="about">About</a></li>
+<li><a href="/">Blog</a></li>
+</ul>
+</div>
+</div>
+</nav>
+<div class="container-fluid">
+<div class="row">
+<div id="menu" class="hidden-xs col-sm-4 col-md-3">
+<div id="menu-content" class="vertical-align">
+<h1 class="text-center"><a href="/">RUBEN GARCIA</a></h1>
+<small class="text-center center-block">PROFESIONAL IT</small>
+<img id="profile-pic" src="img/rgplaza.jpg" alt="My Picture" class="img-circle center-block">
+<div id="social" class="text-center">
+<a href="https://www.linkedin.com/in/rubengarciaplaza/"><i class="fa fa-linkedin fa-2x"></i></a>
+<a href="https://github.com/rgplaza"><i class="fa fa-github fa-2x"></i></a>
+<a href="https://twitter.com"><i class="fa fa-twitter fa-2x"></i></a>
+<a href="https://plus.google.com/&#43;YourID"><i class="fa fa-google-plus fa-2x"></i></a>
+<a href="mailto:ruben.garciaplaza@gmail.com"><i class="fa fa-envelope-o fa-2x"></i></a>
+</div>
+<div id="links" class="text-center">
+<a href="about">Sobre Mí</a>
+<a href="post">Blog</a>
+</div>
+</div>
+</div>
+<div id="content" class="col-xs-12 col-sm-8 col-md-9">
+<div class="row">
+<div id="post" class="col-sm-offset-1 col-sm-10 col-md-10 col-lg-8">
+<main>
+<header>
+<h1>Sobre Mí</h1>
+</header>
+<article>
+<p>Poseo más de 16 años de experiencia en consultoría desarrollada principalmente en el sector de Telecomunicaciones (Telefónica Móviles España) 10 de los cuales he Gestionado Proyectos, tanto en desarrollo de Software como en Soportes Informáticos Especializados.
+
+Comencé mi carrera profesional en el desarrollo de software como programador, llegando en 3 años a alcanzar la categoría de Analista en el mismo proyecto en el que colaboré durante 6 años, diseñando soluciones de Auto-gestión de Procesos que mejoraron la disponibilidad y el rendimiento de las Aplicaciones.
+
+Decidí cambiar para ampliar mis conocimientos pasando al área de explotación llegando a Responsable de Aplicaciones en los ámbitos de Tráfico, Facturación, Fraude y Riesgo de Telefónica España, donde mis propuestas en los nuevos proyectos y mis intervenciones en problemas complejos han permitido reducir las incidencias de las aplicaciones bajo mi responsabilidad.
+
+Mis compañeros me conocen como una persona optimista y tranquila en quien siempre se puede confiar para colaborar en nuevos proyectos, solucionar cualquier incidencia en las aplicaciones, identificar puntos de mejora y proponer optimizaciones, manteniendo la calma en momentos de presión.
+
+Compaginé mi trabajo con el estudio de la Diplomatura de Ciencias Empresariales en la UNED, finalizando en 6 años y espero poder aplicar esta formación para seguir desarrollando mi carrera profesional una gran empresa.
+
+Mis 15 años de experiencia en Telefónica hacen que sea un gran conocedor de entornos tecnológicos complejos y diversos sistemas informáticos, tanto software propietario como productos comerciales.
+
+Actualmente estoy trabajando como Responsable de Software de servicios audiovisuales para la empresa TRACK 13.</p>
+</article>
+</main>
+<div id="bottom-nav" class="text-center center-block">
+<a href="/" class="btn btn-default"><i class="fa fa-home"></i>Home</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+    ga('create', 'code-here', 'auto');
+    ga('send', 'pageview');
+    window.baseURL = "\/";
+  </script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.2/js/bootstrap.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/d3/3.5.5/d3.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/topojson/1.6.9/topojson.min.js"></script>
+<script src="https://themes.gohugo.io/theme/hugo-geo//js/App.js"></script>
+<script>/* <![CDATA[ */(function(d,s,a,i,j,r,l,m,t){try{l=d.getElementsByTagName('a');t=d.createElement('textarea');for(i=0;l.length-i;i++){try{a=l[i].href;s=a.indexOf('/cdn-cgi/l/email-protection');m=a.length;if(a&&s>-1&&m>28){j=28+s;s='';if(j<m){r='0x'+a.substr(j,2)|0;for(j+=2;j<m&&a.charAt(j)!='X';j+=2)s+='%'+('0'+('0x'+a.substr(j,2)^r).toString(16)).slice(-2);j++;s=decodeURIComponent(s)+a.substr(j,m-j)}t.innerHTML=s.replace(/</g,'&lt;').replace(/\>/g,'&gt;');l[i].href='mailto:'+t.value}}catch(e){}}}catch(e){}})(document);/* ]]> */</script></body>
+</html>

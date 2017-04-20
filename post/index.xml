@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on RUBEN GARCIA</title>
+    <link>/post/</link>
+    <description>Recent content in Posts on RUBEN GARCIA</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 20 Apr 2017 12:10:05 +0200</lastBuildDate>
+    
+	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Pinocho</title>
+      <link>/post/pinocho/</link>
+      <pubDate>Thu, 20 Apr 2017 12:10:05 +0200</pubDate>
+      
+      <guid>/post/pinocho/</guid>
+      <description>Una aproximación a la inteligencia artificial de finales del siglo XIX.
+Todo conocemos a Pinocho, un cuento para niños escrito por el Florentino Carlo Collodi y publicada en un periódico italiano en 1882 Pinocho es conocido en todo el mundo gracias a la adaptación de Disney de 1940. En el cuento el viejo carpintero Geppeto, que quería tener un hijo esculpe una figura de madera que cobra vida gracias al hada azul, y se convierte en un niño travieso y desobediente que le da muchos dolores de cabeza a su &amp;ldquo;padre&amp;rdquo;, a pesar de su conciencia &amp;ldquo;Pepito grillo&amp;rdquo;.</description>
+    </item>
+    
+  </channel>
+</rss>
