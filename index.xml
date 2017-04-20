@@ -12,13 +12,21 @@
     
     
     <item>
-      <title>Pinocho</title>
+      <title>Pinocho, una IA del s. XIX</title>
       <link>/post/pinocho/</link>
       <pubDate>Thu, 20 Apr 2017 12:10:05 +0200</pubDate>
       
       <guid>/post/pinocho/</guid>
-      <description>Una aproximación a la inteligencia artificial de finales del siglo XIX.
-Todo conocemos a Pinocho, un cuento para niños escrito por el Florentino Carlo Collodi y publicada en un periódico italiano en 1882 Pinocho es conocido en todo el mundo gracias a la adaptación de Disney de 1940. En el cuento el viejo carpintero Geppeto, que quería tener un hijo esculpe una figura de madera que cobra vida gracias al hada azul, y se convierte en un niño travieso y desobediente que le da muchos dolores de cabeza a su &amp;ldquo;padre&amp;rdquo;, a pesar de su conciencia &amp;ldquo;Pepito grillo&amp;rdquo;.</description>
+      <description>Todos conocemos a Pinocho, un cuento para niños escrito por el Florentino Carlo Collodi y publicada en un periódico italiano en 1882 Pinocho es conocido en todo el mundo gracias a la adaptación de Disney de 1940. En el cuento el viejo carpintero Geppeto, que quería tener un hijo esculpe una figura de madera que cobra vida gracias al hada azul, y se convierte en un niño travieso y desobediente que le da muchos dolores de cabeza a su &amp;ldquo;padre&amp;rdquo;, a pesar de su conciencia &amp;ldquo;Pepito grillo&amp;rdquo;.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/about/</guid>
+      <description>About Me &amp;middot; MY NAME // /* */    Toggle navigation     RUBEN GARCIA  About Blog     RUBEN GARCIA PROFESIONAL IT       Sobre Mí Blog      Sobre Mí   Poseo más de 16 años de experiencia en consultoría desarrollada principalmente en el sector de Telecomunicaciones (Telefónica Móviles España) 10 de los cuales he Gestionado Proyectos, tanto en desarrollo de Software como en Soportes Informáticos Especializados.</description>
     </item>
     
   </channel>
